@@ -1,4 +1,4 @@
-# Ultimate Truth (Toolset) v0.0.1
+# Ultimate Truth Toolset v0.0.2
 
 ## Toolset zur ultimativen Wahrheitsfindung. 
 
@@ -22,3 +22,5 @@
 * Wie sollen Namen von Informationsblöcken benannt werden? (Hash, Satz, Label, ...)
 * Wie können Informationsblöcke kategorisiert, gefiltert und vernetzt werden? (Graph Datenbank?)
 
+### Inspired by strunfun :)
+[strunfun](https://docs.google.com/document/d/1jMdfB7tln2mupWO4WfQRfgy9LrDaZGsHE4fOAby5dbc/edit?usp=sharing)
